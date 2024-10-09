@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "craiyon_232904_Kawaii__anime__chibi__korean_style__simple_raccoon_reading_a_book.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

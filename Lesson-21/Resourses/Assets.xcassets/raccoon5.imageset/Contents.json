@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "craiyon_232924_create_an_animated_raccoon_that_walks_on_two_feet_is_black_grey_and_white__He_wears_a.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

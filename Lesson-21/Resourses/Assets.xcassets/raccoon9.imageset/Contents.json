@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "craiyon_232909_A_cute_Raccoon_kawaii_illustration_that_has_big_eyes_and_a_big_head_and_has_a_confuse.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
